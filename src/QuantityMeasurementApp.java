@@ -1,4 +1,4 @@
-public class UC1 {
+public class QuantityMeasurementApp {
 
     // Inner class Feet
     static class Feet {
